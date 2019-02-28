@@ -1,6 +1,7 @@
 <?php
 
 /**
+ * ------------- DO NOT UPLOAD THIS FILE TO LIVE SERVER ---------------------
  * Class Generate
  */
 class Generate

@@ -62,7 +62,7 @@ class Generate
     {
         @unlink('PHPStorm_CI_CC.php');
         file_put_contents('PHPStorm_CI.php', $this->fileData);
-        echo "File has been created successfully!";
+        echo "File has been updated successfully!";
     }
 }
 
